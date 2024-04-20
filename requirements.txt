@@ -1,0 +1,8 @@
+numpy==1.20.3
+yfinance==0.1.64
+python-telegram-bot==13.7
+datetime
+statistics
+newsapi-python==0.2.6
+textblob==0.15.3
+requests==2.26.0
